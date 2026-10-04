@@ -27,6 +27,9 @@ public class ClickControl : MonoBehaviour
         {
             Destroy(objnametext);
             Destroy(gameObject);
+
+            FindFirstObjectByType<LevelManager>().ItemFound();
+            
             Instantiate(
             successclick,
             objnametextPos.position,
