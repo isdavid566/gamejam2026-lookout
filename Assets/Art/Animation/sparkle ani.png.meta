@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 48604ef9d1b6085448b476c503129e18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3522885047311591712
+    second: sparkle ani_0
+  - first:
+      213: 7318407257371588337
+    second: sparkle ani_1
+  - first:
+      213: 8076350649190967839
+    second: sparkle ani_2
+  - first:
+      213: 4015434088186151319
+    second: sparkle ani_3
+  - first:
+      213: 5202657605978124056
+    second: sparkle ani_4
+  - first:
+      213: 3564343109946487867
+    second: sparkle ani_5
+  - first:
+      213: -8228125936033407075
+    second: sparkle ani_6
+  - first:
+      213: 9011375889670468846
+    second: sparkle ani_7
+  - first:
+      213: -4738985707545996432
+    second: sparkle ani_8
+  - first:
+      213: 7938834745349058044
+    second: sparkle ani_9
+  - first:
+      213: -1765392090789680969
+    second: sparkle ani_10
+  - first:
+      213: 3865642268495953565
+    second: sparkle ani_11
+  - first:
+      213: -6367673973098106665
+    second: sparkle ani_12
+  - first:
+      213: 8513463418871961508
+    second: sparkle ani_13
+  - first:
+      213: -5278216734321443829
+    second: sparkle ani_14
+  - first:
+      213: -1853113321683382246
+    second: sparkle ani_15
+  - first:
+      213: -398504059903310984
+    second: sparkle ani_16
+  - first:
+      213: -1413033407109220995
+    second: sparkle ani_17
+  - first:
+      213: -5041903995778751501
+    second: sparkle ani_18
+  - first:
+      213: 614008588633530684
+    second: sparkle ani_19
+  - first:
+      213: -6945120378895364951
+    second: sparkle ani_20
+  - first:
+      213: -110130228232832379
+    second: sparkle ani_21
+  - first:
+      213: 938600619946465760
+    second: sparkle ani_22
+  - first:
+      213: -2512594543053201615
+    second: sparkle ani_23
+  - first:
+      213: -6222064521012678227
+    second: sparkle ani_24
+  - first:
+      213: -8031891529534357286
+    second: sparkle ani_25
+  - first:
+      213: -6625753808112085937
+    second: sparkle ani_26
+  - first:
+      213: -5110692071013599052
+    second: sparkle ani_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sparkle ani_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 492
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029ea85194dc3e030800000000000000
+      internalID: 3522885047311591712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkle ani_1
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 492
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07eed90f2b2e37742886c39b2c04c0f9
+      internalID: 7318407257371588337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkle ani_2
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 0
+        width: 492
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f149b476a1847aa46b3165d9dafb7d85
+      internalID: 8076350649190967839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkle ani_3
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 0
+        width: 492
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c08779ddc2adf24faa5ad3856637a20
+      internalID: 4015434088186151319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c8a953100a89173408233fcf22895353
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":492.0,"y":250.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":true,"isAlternate":false}'
+    nameFileIdTable:
+      sparkle ani_0: 3522885047311591712
+      sparkle ani_1: 7318407257371588337
+      sparkle ani_2: 8076350649190967839
+      sparkle ani_3: 4015434088186151319
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
