@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: ec798353354194ddfb1c1e5a11a6b408
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8740120235529957277
+    second: portalgun_LookOut_0
+  - first:
+      213: 8140895769268518235
+    second: portalgun_LookOut_1
+  - first:
+      213: -7620457127077927759
+    second: portalgun_LookOut_2
+  - first:
+      213: 2919575558197154366
+    second: portalgun_LookOut_3
+  - first:
+      213: -1521382908970355093
+    second: portalgun_LookOut_4
+  - first:
+      213: 7235409192977973968
+    second: portalgun_LookOut_5
+  - first:
+      213: -6848961902930885779
+    second: portalgun_LookOut_6
+  - first:
+      213: -1662262760427494619
+    second: portalgun_LookOut_7
+  - first:
+      213: -2554525743692953014
+    second: portalgun_LookOut_8
+  - first:
+      213: -1644723628106151368
+    second: portalgun_LookOut_9
+  - first:
+      213: 5950491299246790929
+    second: portalgun_LookOut_10
+  - first:
+      213: -950481927494065067
+    second: portalgun_LookOut_11
+  - first:
+      213: -5667383444889640804
+    second: portalgun_LookOut_12
+  - first:
+      213: 3391592556591426968
+    second: portalgun_LookOut_13
+  - first:
+      213: -4930398170044396750
+    second: portalgun_LookOut_14
+  - first:
+      213: -4984095832588846698
+    second: portalgun_LookOut_15
+  - first:
+      213: -8291787776750943278
+    second: portalgun_LookOut_16
+  - first:
+      213: -6094557533385124872
+    second: portalgun_LookOut_17
+  - first:
+      213: 954588539383813731
+    second: portalgun_LookOut_18
+  - first:
+      213: 717663620466463065
+    second: portalgun_LookOut_19
+  - first:
+      213: 1546109181703890095
+    second: portalgun_LookOut_20
+  - first:
+      213: -8870628993915428246
+    second: portalgun_LookOut_21
+  - first:
+      213: 5025847857629513963
+    second: portalgun_LookOut_22
+  - first:
+      213: 5457670599798048588
+    second: portalgun_LookOut_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: portalgun_LookOut_0
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 398
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f67fc0c052b4970800000000000000
+      internalID: 8740120235529957277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_1
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 406
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dfab0e1954af070800000000000000
+      internalID: 8140895769268518235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 398
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b42d6a2e92be3690800000000000000
+      internalID: -7620457127077927759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 406
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e321149608a648820800000000000000
+      internalID: 2919575558197154366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 398
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66b87f0e46f2eae0800000000000000
+      internalID: -1521382908970355093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_5
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 406
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d24c008356596460800000000000000
+      internalID: 7235409192977973968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 398
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d630f97cf6993f0a0800000000000000
+      internalID: -6848961902930885779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_7
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 398
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523eb5193d47ee8e0800000000000000
+      internalID: -1662262760427494619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_8
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 398
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a479dde508c8cd0800000000000000
+      internalID: -2554525743692953014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 246
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a8a090394cc29e0800000000000000
+      internalID: -1644723628106151368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 254
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11958a24f44649250800000000000000
+      internalID: 5950491299246790929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 150
+        width: 450
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554a94a09b53fc2f0800000000000000
+      internalID: -950481927494065067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 230
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c906c61b8c86951b0800000000000000
+      internalID: -5667383444889640804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 238
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dad76f57b511f20800000000000000
+      internalID: 3391592556591426968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 209
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b84499cf4b39bb0800000000000000
+      internalID: -4930398170044396750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 222
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69979044f3fe4dab0800000000000000
+      internalID: -4984095832588846698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 200
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d385d5e2f6adec80800000000000000
+      internalID: -8291787776750943278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 206
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f31667b638cb6ba0800000000000000
+      internalID: -6094557533385124872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_18
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 144
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36691ac08316f3d00800000000000000
+      internalID: 954588539383813731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_19
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 142
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951df1ea247a5f900800000000000000
+      internalID: 717663620466463065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_20
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 140
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa42e6feb12e47510800000000000000
+      internalID: 1546109181703890095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 146
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62e36bbde135e480800000000000000
+      internalID: -8870628993915428246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_22
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 138
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be84a299ff56fb540800000000000000
+      internalID: 5025847857629513963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalgun_LookOut_23
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 134
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c474e0a9e7a8dbb40800000000000000
+      internalID: 5457670599798048588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      portalgun_LookOut_0: 8740120235529957277
+      portalgun_LookOut_1: 8140895769268518235
+      portalgun_LookOut_10: 5950491299246790929
+      portalgun_LookOut_11: -950481927494065067
+      portalgun_LookOut_12: -5667383444889640804
+      portalgun_LookOut_13: 3391592556591426968
+      portalgun_LookOut_14: -4930398170044396750
+      portalgun_LookOut_15: -4984095832588846698
+      portalgun_LookOut_16: -8291787776750943278
+      portalgun_LookOut_17: -6094557533385124872
+      portalgun_LookOut_18: 954588539383813731
+      portalgun_LookOut_19: 717663620466463065
+      portalgun_LookOut_2: -7620457127077927759
+      portalgun_LookOut_20: 1546109181703890095
+      portalgun_LookOut_21: -8870628993915428246
+      portalgun_LookOut_22: 5025847857629513963
+      portalgun_LookOut_23: 5457670599798048588
+      portalgun_LookOut_3: 2919575558197154366
+      portalgun_LookOut_4: -1521382908970355093
+      portalgun_LookOut_5: 7235409192977973968
+      portalgun_LookOut_6: -6848961902930885779
+      portalgun_LookOut_7: -1662262760427494619
+      portalgun_LookOut_8: -2554525743692953014
+      portalgun_LookOut_9: -1644723628106151368
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
