@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 96b99c714eedc4049b00264b8e7fda0c
+guid: 610dfe1e44f4d1440b86e723f5adccac
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1177268063874723711
-    second: bg_bedroom_0
+      213: -6921695967071580514
+    second: screwdriver_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -115,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bg_bedroom_0
+      name: screwdriver_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1080
+        x: 2
+        y: 6
+        width: 447
+        height: 87
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,8 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7f2aa0111f765010800000000000000
-      internalID: 1177268063874723711
+      spriteID: e9ec17fc03231ff90800000000000000
+      internalID: -6921695967071580514
       vertices: []
       indices: 
       edges: []
@@ -150,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bg_bedroom_0: 1177268063874723711
+      screwdriver_0: -6921695967071580514
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 96b99c714eedc4049b00264b8e7fda0c
+guid: 27f9e8afdab9bfc41ade5239d0c6c5c8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1177268063874723711
-    second: bg_bedroom_0
+      213: -7832214784768987486
+    second: apple_0
+  - first:
+      213: -8755805678658342655
+    second: apple_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +40,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -115,13 +118,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bg_bedroom_0
+      name: apple_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
-        height: 1080
+        width: 337
+        height: 368
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,8 +133,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7f2aa0111f765010800000000000000
-      internalID: 1177268063874723711
+      spriteID: 2ae284d66226e4390800000000000000
+      internalID: -7832214784768987486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apple_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 354
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101b83120212d7680800000000000000
+      internalID: -8755805678658342655
       vertices: []
       indices: 
       edges: []
@@ -150,7 +175,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bg_bedroom_0: 1177268063874723711
+      apple_0: -7832214784768987486
+      apple_1: -8755805678658342655
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 96b99c714eedc4049b00264b8e7fda0c
+guid: bfa81c11360cf8e49a3e3dcd7a43a60e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1177268063874723711
-    second: bg_bedroom_0
+      213: 4422662579018926940
+    second: fork_0
+  - first:
+      213: -7589195165873153370
+    second: fork_1
+  - first:
+      213: -429661441157353115
+    second: fork_2
+  - first:
+      213: 5135751271418386806
+    second: fork_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -115,13 +124,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bg_bedroom_0
+      name: fork_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1080
+        x: 1
+        y: 3
+        width: 327
+        height: 263
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,8 +139,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7f2aa0111f765010800000000000000
-      internalID: 1177268063874723711
+      spriteID: c5b06dfee24706d30800000000000000
+      internalID: 4422662579018926940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fork_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aad407b433cda690800000000000000
+      internalID: -7589195165873153370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fork_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 226
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561322a1239890af0800000000000000
+      internalID: -429661441157353115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fork_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 213
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67957ab229ad54740800000000000000
+      internalID: 5135751271418386806
       vertices: []
       indices: 
       edges: []
@@ -150,7 +225,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bg_bedroom_0: 1177268063874723711
+      fork_0: 4422662579018926940
+      fork_1: -7589195165873153370
+      fork_2: -429661441157353115
+      fork_3: 5135751271418386806
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
