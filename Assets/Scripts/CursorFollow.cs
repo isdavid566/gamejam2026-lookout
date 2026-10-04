@@ -8,6 +8,8 @@ public class CursorFollow : MonoBehaviour
     public float extraWidth = 50f;
     public float extraHeight = 50f;
 
+    public bool cursorActive = true;
+
     void Start()
     {
         rectTransform = GetComponent<RectTransform>();
@@ -16,6 +18,9 @@ public class CursorFollow : MonoBehaviour
 
     void Update()
     {
+        if (!cursorActive)
+            return;
+
         Vector2 mousePosition = Mouse.current.position.ReadValue();
 
         float width = rectTransform.rect.width;

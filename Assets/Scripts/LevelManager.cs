@@ -8,6 +8,7 @@ public class LevelManager : MonoBehaviour
     private int foundItems = 0;
 
     public GameObject nextLevelButton;
+    public CursorFollow cursorFollow;
 
     void Start()
     {
@@ -23,6 +24,9 @@ public class LevelManager : MonoBehaviour
         if (foundItems >= requiredItems)
         {
             nextLevelButton.SetActive(true);
+
+            cursorFollow.cursorActive = false;
+            Cursor.visible = true;
         }
     }
 

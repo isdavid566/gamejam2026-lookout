@@ -7,22 +7,10 @@ public class ClickControl : MonoBehaviour
     public RectTransform objnametextPos;
     public GameObject successclick;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
     void OnMouseDown()
     {
         nameofobj = gameObject.name;
-        // Debug.Log(nameofobj);
+
         if (objnametext != null)
         {
             Destroy(objnametext);
