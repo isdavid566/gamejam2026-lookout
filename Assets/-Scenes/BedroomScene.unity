@@ -310,6 +310,8 @@ GameObject:
   m_Component:
   - component: {fileID: 361179997}
   - component: {fileID: 361179996}
+  - component: {fileID: 361179999}
+  - component: {fileID: 361179998}
   m_Layer: 0
   m_Name: cup-of-tea
   m_TagString: Untagged
@@ -385,13 +387,73 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 361179995}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.34, y: -1.28, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.26587, y: -0.81683993, z: 0}
   m_LocalScale: {x: 0.31, y: 0.31, z: 0.31}
   m_ConstrainProportionsScale: 1
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1671076669}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &361179998
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 361179995}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4.98, y: 3.22}
+    newSize: {x: 4.98, y: 3.22}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 4.98, y: 3.22}
+  m_EdgeRadius: 0
+--- !u!114 &361179999
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 361179995}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c1086fc5db6d43c5bdbc50d81351f89, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::OnClick
+  itemName: Teddy Bear
+  isCollectible: 1
 --- !u!1 &400384769
 GameObject:
   m_ObjectHideFlags: 0
@@ -402,6 +464,8 @@ GameObject:
   m_Component:
   - component: {fileID: 400384771}
   - component: {fileID: 400384770}
+  - component: {fileID: 400384773}
+  - component: {fileID: 400384772}
   m_Layer: 0
   m_Name: potted-plant
   m_TagString: Untagged
@@ -477,13 +541,73 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 400384769}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.51, y: 2.41, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 7.5841303, y: 2.8731601, z: 0}
   m_LocalScale: {x: 0.36, y: 0.36, z: 0.36}
   m_ConstrainProportionsScale: 1
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1671076669}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &400384772
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 400384769}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 3.11, y: 5}
+    newSize: {x: 3.11, y: 5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 3.11, y: 5}
+  m_EdgeRadius: 0
+--- !u!114 &400384773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 400384769}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c1086fc5db6d43c5bdbc50d81351f89, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::OnClick
+  itemName: Teddy Bear
+  isCollectible: 1
 --- !u!1 &694978428
 GameObject:
   m_ObjectHideFlags: 0
@@ -678,6 +802,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1197747129}
   - component: {fileID: 1197747128}
+  - component: {fileID: 1197747131}
+  - component: {fileID: 1197747130}
   m_Layer: 0
   m_Name: lava-lamp
   m_TagString: Untagged
@@ -753,13 +879,73 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1197747127}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.75, y: 2.12, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.82413, y: 2.58316, z: 0}
   m_LocalScale: {x: 0.49, y: 0.49, z: 0.49}
   m_ConstrainProportionsScale: 1
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1671076669}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1197747130
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1197747127}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2.48, y: 4.82}
+    newSize: {x: 2.48, y: 4.82}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 2.48, y: 4.82}
+  m_EdgeRadius: 0
+--- !u!114 &1197747131
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1197747127}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c1086fc5db6d43c5bdbc50d81351f89, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::OnClick
+  itemName: Teddy Bear
+  isCollectible: 1
 --- !u!1 &1232222593
 GameObject:
   m_ObjectHideFlags: 0
@@ -770,6 +956,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1232222595}
   - component: {fileID: 1232222594}
+  - component: {fileID: 1232222597}
+  - component: {fileID: 1232222596}
   m_Layer: 0
   m_Name: pillow
   m_TagString: Untagged
@@ -845,13 +1033,73 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1232222593}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.23, y: -1.7, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 5.30413, y: -1.23684, z: 0}
   m_LocalScale: {x: 0.55, y: 0.55, z: 0.55}
   m_ConstrainProportionsScale: 1
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1671076669}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1232222596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1232222593}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c1086fc5db6d43c5bdbc50d81351f89, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::OnClick
+  itemName: Teddy Bear
+  isCollectible: 1
+--- !u!61 &1232222597
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1232222593}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4.67, y: 4.47}
+    newSize: {x: 4.67, y: 4.47}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 4.67, y: 4.47}
+  m_EdgeRadius: 0
 --- !u!1 &1275879170
 GameObject:
   m_ObjectHideFlags: 0
@@ -862,6 +1110,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1275879172}
   - component: {fileID: 1275879171}
+  - component: {fileID: 1275879174}
+  - component: {fileID: 1275879173}
   m_Layer: 0
   m_Name: teddy-bear
   m_TagString: Untagged
@@ -937,13 +1187,73 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1275879170}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.69, y: -1.14, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.76413, y: -0.67683995, z: 0}
   m_LocalScale: {x: 0.52, y: 0.52, z: 0.52}
   m_ConstrainProportionsScale: 1
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1671076669}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1275879173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1275879170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c1086fc5db6d43c5bdbc50d81351f89, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::OnClick
+  itemName: Teddy Bear
+  isCollectible: 1
+--- !u!61 &1275879174
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1275879170}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4.47, y: 4.87}
+    newSize: {x: 4.47, y: 4.87}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 4.47, y: 4.87}
+  m_EdgeRadius: 0
 --- !u!1 &1298249307
 GameObject:
   m_ObjectHideFlags: 0
@@ -1065,6 +1375,12 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 361179997}
+  - {fileID: 1765709848}
+  - {fileID: 1197747129}
+  - {fileID: 1232222595}
+  - {fileID: 400384771}
+  - {fileID: 1275879172}
   - {fileID: 2061674192}
   - {fileID: 1877885763}
   - {fileID: 694978431}
@@ -1081,6 +1397,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1765709848}
   - component: {fileID: 1765709847}
+  - component: {fileID: 1765709850}
+  - component: {fileID: 1765709849}
   m_Layer: 0
   m_Name: fish-bowl
   m_TagString: Untagged
@@ -1156,13 +1474,73 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1765709846}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.8, y: 3.54, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.8741302, y: 4.00316, z: 0}
   m_LocalScale: {x: 0.25, y: 0.25, z: 0.25}
   m_ConstrainProportionsScale: 1
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1671076669}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1765709849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1765709846}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c1086fc5db6d43c5bdbc50d81351f89, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::OnClick
+  itemName: Teddy Bear
+  isCollectible: 1
+--- !u!61 &1765709850
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1765709846}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 5, y: 5}
+    newSize: {x: 5, y: 5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 5, y: 5}
+  m_EdgeRadius: 0
 --- !u!1 &1877885762
 GameObject:
   m_ObjectHideFlags: 0
@@ -1458,9 +1836,3 @@ SceneRoots:
   - {fileID: 1671076669}
   - {fileID: 2114206991}
   - {fileID: 1298249309}
-  - {fileID: 361179997}
-  - {fileID: 1765709848}
-  - {fileID: 1197747129}
-  - {fileID: 1232222595}
-  - {fileID: 400384771}
-  - {fileID: 1275879172}
