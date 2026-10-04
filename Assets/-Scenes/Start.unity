@@ -521,6 +521,7 @@ GameObject:
   - component: {fileID: 685732988}
   - component: {fileID: 685732987}
   - component: {fileID: 685732989}
+  - component: {fileID: 685732990}
   m_Layer: 0
   m_Name: BackgroundMusic
   m_TagString: Untagged
@@ -652,6 +653,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 09c960dd17760ca4da9b7c71e82a5488, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DontDestroyOnLoad
+--- !u!114 &685732990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 685732986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efee56c431dfa4f72a0ebffa96c20601, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MusicSwitcher
+  startAndWinAudio: {fileID: 8300000, guid: 5f037974f158de440a03429c50ba2c9e, type: 3}
+  gameplayMusic: {fileID: 8300000, guid: 76adb33113b8e444fbfc16422047c952, type: 3}
+  gameplayScenes:
+  - BedroomScene1
+  - GameroomScene
+  - KitchenScene
+  startSceneName: Start
+  winSceneName: EndScene
 --- !u!1 &850741589
 GameObject:
   m_ObjectHideFlags: 0
