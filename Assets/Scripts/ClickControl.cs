@@ -23,13 +23,16 @@ public class ClickControl : MonoBehaviour
     {
         nameofobj = gameObject.name;
         // Debug.Log(nameofobj);
-        Destroy(gameObject);
-        Destroy(objnametext);
-        Instantiate(
+        if (objnametext != null)
+        {
+            Destroy(objnametext);
+            Destroy(gameObject);
+            Instantiate(
             successclick,
             objnametextPos.position,
             Quaternion.identity,
             objnametextPos.parent
-        );
+            );
+        }
     }
 }
