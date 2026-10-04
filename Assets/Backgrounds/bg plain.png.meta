@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 96b99c714eedc4049b00264b8e7fda0c
+guid: 72b6105181c32c243b86c1ac9fb321c9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1177268063874723711
-    second: bg_bedroom_0
+      213: -3940293824810951638
+    second: bg plain_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,7 +115,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bg_bedroom_0
+      name: bg plain_0
       rect:
         serializedVersion: 2
         x: 0
@@ -130,8 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7f2aa0111f765010800000000000000
-      internalID: 1177268063874723711
+      spriteID: a2c5a7594a34159c0800000000000000
+      internalID: -3940293824810951638
       vertices: []
       indices: 
       edges: []
@@ -150,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bg_bedroom_0: 1177268063874723711
+      bg plain_0: -3940293824810951638
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

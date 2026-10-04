@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 96b99c714eedc4049b00264b8e7fda0c
+guid: 5bba4cd25c758d445a890a5a3fe49312
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1177268063874723711
-    second: bg_bedroom_0
+      213: 7220759922753805676
+    second: oj_0
+  - first:
+      213: -6281539846102417279
+    second: oj_1
+  - first:
+      213: -1490093828152665838
+    second: oj_2
+  - first:
+      213: 1257763815326069878
+    second: oj_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -115,13 +124,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bg_bedroom_0
+      name: oj_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1080
+        x: 9
+        y: 9
+        width: 234
+        height: 431
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,8 +139,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7f2aa0111f765010800000000000000
-      internalID: 1177268063874723711
+      spriteID: c6d1e1c74ea453460800000000000000
+      internalID: 7220759922753805676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oj_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 398
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1808a9e7acc73d8a0800000000000000
+      internalID: -6281539846102417279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oj_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 377
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21955f2ee8f125be0800000000000000
+      internalID: -1490093828152665838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oj_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 369
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674b9dfa689747110800000000000000
+      internalID: 1257763815326069878
       vertices: []
       indices: 
       edges: []
@@ -150,7 +225,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bg_bedroom_0: 1177268063874723711
+      oj_0: 7220759922753805676
+      oj_1: -6281539846102417279
+      oj_2: -1490093828152665838
+      oj_3: 1257763815326069878
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
